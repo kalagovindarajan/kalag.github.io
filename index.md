@@ -1,12 +1,15 @@
 # KALA GOVINDARAJAN
-## DATA CLOUD ARCHITECT, SNOWFLAKE
+## DATA CLOUD ARCHITECT
 
 
 A Cloud Data Architect experienced in designing and developing robust and flexible data architectures for both Cloud and on-premise applications. I carry 15+ years of software engineering experience working on multiple lifecycles of data science, data analytics, data migration, data integration implementations where I have helped Fortune 500 organizations identify key business drivers and challenges through requirements elicitation, advocate effective solutions, develop data strategies to create modern data architectures aligning with business goals. My areas of interest is Machine Learning and Artificial Intelligence systems and help organizations tap the potential from their data using these technologies. 
 
-**<span style="color:BLUE;">EDUCATION:</span>**
+**EDUCATION**
+
 Masters of Science in Computer Science (Online), The University of Texas at Austin
 Bachelor of Computer Science Engineering 
+
+
 **PROFESSIONAL EXPERIENCE**
 
 **Snowflake (Jan 2020 to Present)**
@@ -74,6 +77,8 @@ Snowflake, AWS SageMaker and SAS.
 3. Architectural advice and thought leadership for Data Architecture, Data Engineering, Data Lake/Warehouse and ML/Data Analytics competencies.
 4. Programming languages : Python and Java
 
+
 **Contact:**  
+
 Email: kala.govindarajan@utexas.edu
 LinkedIn: https://www.linkedin.com/in/kalag/
