@@ -77,6 +77,3 @@ Snowflake, AWS SageMaker and SAS.
 **Contact:**  
 Email: kala.govindarajan@utexas.edu
 LinkedIn: https://www.linkedin.com/in/kalag/
-
-![image](https://github.com/kalagovindarajan/kalag.github.io/assets/120101189/40614ea2-c546-4254-a316-e83f205c0ec2)
-
